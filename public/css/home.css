@@ -1,0 +1,25 @@
+.imagen-home {
+    float: right; /* Coloca la imagen en el lado derecho */
+    margin-left: 20px; /* Agrega un espacio entre el texto y la imagen */
+  }
+.header-nav-home {
+    font-family: 'Raleway', sans-serif;
+    text-decoration-color: black;
+    font-size: 20px;
+}
+
+.lista-nav-home {
+    list-style-type: none; /* Elimina las viñetas */
+    margin-bottom: 10px; /* Agrega un espacio entre los enlaces */
+  }
+  ul.paginas li {
+    display: inline; /* Hace que los elementos de la lista se muestren en línea (horizontalmente) */
+    margin-right: 10px; /* Agrega un espacio entre los elementos de la lista, si lo deseas */
+    font-size: 30px;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+
+  
