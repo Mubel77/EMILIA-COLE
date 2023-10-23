@@ -1,0 +1,23 @@
+.header_nav_horizontal ul li {
+    display: inline;
+    
+}
+.header_uppercase{
+    text-transform: uppercase; 
+    
+}
+.header_nav_vertical ul li {
+    margin: 20px 0px 20px 0px;
+}
+.header_ul li {
+    border-left: 2px solid black;
+    padding: 5px;
+}
+
+.header_ul{
+    border-right: 2px solid black;
+    padding: 5px;
+}
+.titulo{
+    font-size: 50px;
+}

@@ -1,0 +1,28 @@
+.music_header {
+    background-image: url(/img/emilia-music-top.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    height: 140px;
+    text-align: right;
+    padding: 20px 5px;
+}
+.header_sombreado {
+    background-color: rgba(255,255,255,0.5);
+    padding: 2px 0px;
+}
+.music_album {
+    width: 640px;
+}
+.music_ol_album li{
+    margin: 20px 0px 20px 0px;
+}
+.music_got_top {
+   font-size: 20px;
+}
+h3 {
+    font-size: 20px;
+    margin:100px 0px 20px 0px;
+}
+p {
+    font-size: 10px;
+}

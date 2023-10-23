@@ -1,0 +1,22 @@
+.about_header {
+    text-align: right;
+    padding: 20px 5px;
+}
+.about_header_pag{
+    margin: 25px 0px;
+}
+.contact_h5 {
+    color: rgb(12, 161, 112);
+    font-size: 15px;
+
+ }
+ .contact_img {
+    width: 100%;
+    height: 450px;
+    allowfullscreen: none;
+    object-fit: cover;
+    referrerpolicy: no-referrer-when-downgrade;
+}
+.contact_letra_grey {
+    color: rgb(128, 128, 128);
+}
