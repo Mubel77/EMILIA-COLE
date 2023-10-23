@@ -1,0 +1,27 @@
+:root{
+    --color-gris: #B5ADA8;
+    --color-negro: #000000;
+    --color-verde: #389F8C;
+    --color-background: #FFFFFF;
+}
+
+* {
+    box-sizing: border-box;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: 300;
+    background-color: var(--color-background);
+}
+
+a{
+    color: #000000  ;
+}
+h3 {
+    font-size: 20px;
+    margin:100px 0px 20px 0px;
+}
